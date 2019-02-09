@@ -1,2 +1,2 @@
 # socat
-Dockerfile for the stackstorm/socat image
+Dockerfile for the `stackstorm/socat` image.
